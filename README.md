@@ -1,4 +1,4 @@
-#Corporate Lunch System (Live Demo)
+# System obiadowy (PL)  - Corporate Lunch System (EN) (Live Demo)
 
 ## Overview
 This project is a static front-end demonstration of an internal corporate lunch ordering system. It was originally built as a full-stack application (PHP + SQL) but has been refactored into a static, client-side application (HTML, CSS, JS) specifically to serve as a live portfolio demonstration hosted on GitHub Pages. 
