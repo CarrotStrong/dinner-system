@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'FSMillbank'; 
+    src: url('../fonts/FSMillbank-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FSMillbank'; 
+    src: url('../fonts/FSMillbank-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+:root {
+    --theme-bg: #f8fafc;
+    --theme-text: #1f2937;
+    --theme-primary: #00965A;
+    --theme-secondary: #007a49;
+    --theme-border: rgba(0, 0, 0, 0.06);
+    --theme-card: rgba(255, 255, 255, 0.85);
+    --theme-muted: #6b7280;
+    --theme-input-bg: rgba(243, 243, 243, 0.5);
+    
+    --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+    --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    --radius-xl: 12px;
+    --radius-2xl: 16px;
+}
+
+body {
+    font-family: 'FSMillbank', 'Inter', system-ui, sans-serif;
+    background-color: var(--theme-bg);
+    color: var(--theme-text);
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+}
