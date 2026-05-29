@@ -25,8 +25,8 @@
                     colors: {
                         appBg: '#f8fafc',
                         appText: '#1f2937',
-                        appPrimary: '#294399',
-                        appSecondary: '#152644',
+                        appPrimary: '#401558',
+                        appSecondary: '#2e123f',
                         appBorder: 'rgba(0, 0, 0, 0.1)',
                         appCard: 'rgba(255, 255, 255, 1)',
                         appMuted: '#6b7280',
